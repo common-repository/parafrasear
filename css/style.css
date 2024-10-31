@@ -1,0 +1,32 @@
+.paraphrasing_meta_box label{
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+.paraphrasing_meta_box select{
+    max-width: 100%;
+}
+.paraphrasing_wraper{
+    margin-bottom:10px;
+}
+#parafrasear_tool_submit{
+    color: #fff;
+    border-color: #FCBA04;
+    font-weight: 700;
+    background: #FCBA04;
+    
+}
+#parafrasear_tool_submit:hover{
+    color: #000;
+    border-color: #FCBA04;
+    font-weight: 700;
+    background: #FCBA04;
+    
+}
+#parafrasear_tool_submit:focus {
+   
+    box-shadow: 0 0 0 1px #FCBA04;
+}
+.button-parafrasear{
+    margin-top:5px;
+}
